@@ -46,6 +46,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/hokusatsuma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/kirishima-aira/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/chusatsuma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/minamisatsuma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/osumi/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/kagoshima-oen/ritou/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://tabidokoiko.com/about/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
