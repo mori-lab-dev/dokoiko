@@ -686,11 +686,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tabidokoiko.com/destinations/kumano/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://tabidokoiko.com/destinations/iriomote/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
