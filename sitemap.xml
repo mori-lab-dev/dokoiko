@@ -26,6 +26,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://tabidokoiko.com/kagoshima-fukko/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/fukuoka-oen/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tabidokoiko.com/miyazaki-oen/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://tabidokoiko.com/kumamoto-oen/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
