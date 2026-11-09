@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/furano/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1602,7 +1602,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/osorezan/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1722,7 +1722,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/arashiyama/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2064,7 +2064,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/dazaifu/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3342,7 +3342,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/gen_%E5%8C%97%E6%B5%B7_%E6%94%AF%E7%AC%8F%E6%B9%96%E3%81%84%E3%81%A8%E3%81%86%E6%B8%A9%E6%B3%89/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4667,12 +4667,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tabidokoiko.com/destinations/osorezan-area/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://tabidokoiko.com/destinations/tashirojima/</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -5148,13 +5142,7 @@
   </url>
   <url>
     <loc>https://tabidokoiko.com/destinations/arashiyama-2/</loc>
-    <lastmod>2026-11-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tabidokoiko.com/destinations/ohara-2/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5395,12 +5383,6 @@
   <url>
     <loc>https://tabidokoiko.com/destinations/akiyoshido/</loc>
     <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tabidokoiko.com/destinations/dazaifu-2/</loc>
-    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6025,12 +6007,6 @@
   <url>
     <loc>https://tabidokoiko.com/destinations/takada-jo/</loc>
     <lastmod>2026-11-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tabidokoiko.com/destinations/hokkaido-furano-2/</loc>
-    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
